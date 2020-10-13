@@ -18,6 +18,8 @@
                     <a class="nav-link  btn-danger ml-5 my-1" href="#item-2-3">Assistente técnico em TI</a>
                 </nav>
 
+                <!-- Alterando para o commit do git -->
+                
                 <a class="nav-link  btn-warning" href="#item-3">Projetos pessoais</a>
                 <nav class="nav nav-pills flex-column">
                     <a class="nav-link btn-danger ml-5 my-1" href="#item-3-1">e-ticket</a>
